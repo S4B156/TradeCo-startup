@@ -37,9 +37,12 @@ Currently, TradeCo **is not in active development** and is archived. The project
 The code and architectural decisions in this repository demonstrate my skills in **backend development**, **complex system design**, and **solving real business problems**. The project serves as a portfolio piece.
 
 ## Reflection
-Let’s move on to reflection. Overall, the project was really good, interesting, and the idea was solid, but unfortunately, I wasn’t able to develop it further. I assembled a team, but things didn’t come together. I had very strong motivation because it was my first major project—a backend I was writing on my favorite Spring framework. But, as always, the first pancake is a flop, and this project was no exception.  
+Let’s move on to reflection. Overall, the project was really good, interesting, and the idea was solid, but unfortunately, I wasn’t able to develop it further. I assembled a team, but things didn’t come together. I had very strong motivation because it was my first major project—a backend I was writing on my favorite Spring framework. But, as always, the first pancake is a flop, and this project was no exception.
+
 Despite abandoning it, the project gave me a solid foundation. I learned how **not to do things** and how it’s better to do them. This isn’t just about improving my coding skills and technology use—though that’s important—but mainly about gaining experience as a founder. I had never had this before, and now I understand how to launch a startup: how to validate ideas, build a team, and develop a project from multiple angles.  
+
 I realized I did everything backwards: implementation first, promotion later, and I didn’t even think about validating the idea. Perhaps this is why the project was abandoned. I thought, “I’ll build the project, and it will take off. If not, I’ll just upload it to GitHub.” Interestingly, by the middle of development, I subconsciously knew the project was doomed, but I didn’t dwell on it and kept coding, running away from the fear of failure.  
+
 In the end, I can say: **everything that happens is for the best.** Honestly, I live by this phrase: I don’t regret anything. What’s done is done. The important thing is now and what’s coming in the future. I gained invaluable experience. It was interesting to **fall on my own**. Yes, a lot of time was spent, there were many brainstorming sessions, patience was tested, I may have disturbed others, and burnout happened… but all of this is experience money can’t buy.
 
 ---
@@ -84,6 +87,9 @@ In the end, I can say: **everything that happens is for the best.** Honestly, I 
 
 ## Рефлексия
 Перейдем к рефлексии. В общем, проект был на самом деле хороший, интересный, идея стоящая, но, к сожалению, мне не удалось его развить. Я собрал команду, но всё как-то не срослось. У меня была очень сильная мотивация, так как это был мой первый крупный проект — бэкенд, который я писал на своём любимом Spring. Но, как всегда бывает, первый блин комом, и этот проект не стал исключением. 
+
 Несмотря на то что я его забросил, он дал мне хорошую базу. Я понял, как не надо делать, и как желательно делать. Речь не только о том, что я стал лучше писать код и использовать технологии — хотя и это важно — но прежде всего я получил опыт как основатель. До этого у меня его не было, и теперь я понимаю, как запускать стартап: как проверять идеи, как набирать команду, как развивать проект с разных сторон.
+
 Я понял, что сделал всё наоборот: сначала реализация, потом продвижение, а о проверке идеи даже не думал. Возможно, именно это и привело к тому, что проект был заброшен. Я думал: «Напишу проект, и он взлетит. А если нет — залью на GitHub». Интересно, что уже на середине разработки я подсознательно понимал, что проект обречён, но просто не задумывался об этом и писал код, убегая от страха провала. 
+
 В итоге я могу сказать: всё, что ни делается, — к лучшему. По правде, этой фразой я живу: я ни о чём не жалею. Что было, то прошло. Главное — что сейчас и что будет в будущем. Я получил ценный опыт. Было интересно попробовать упасть самому. Да, потрачено много времени, было много мозгового штурма, терпения, возможно, я потревожил других людей, произошло выгорание… но это всё опыт, который невозможно купить.
